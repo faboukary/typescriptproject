@@ -1,0 +1,10 @@
+// With strictNullChecks set to true 
+var a = undefined; // Ok 
+var b = null; // Error 
+var c = undefined; // Error 
+var d = undefined; // Ok 
+// With strictNullChecks set to false 
+var a1 = undefined; // Ok 
+var b1 = null; // Ok 
+var c1 = undefined; // Ok 
+var d1 = undefined; // Ok
