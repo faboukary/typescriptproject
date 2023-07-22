@@ -1,2 +1,2 @@
 # typscriptproject
-project typescript pour les étudiants 
+projet typescript pour les étudiants 
